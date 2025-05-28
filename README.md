@@ -165,7 +165,7 @@
                             <input type="email" id="email" name="email" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="your.email@example.com">
                         </div>
                         <div>
-                            <label for="phone" class="block text-sm font-medium text-gray-700 mb-2">Phone Number</label>
+                            <label for="CALL FOR BOOKING" class="block text-sm font-medium text-gray-700 mb-2">Phone Number</label>
                             <input type="tel" id="phone" name="phone" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="+1 (555) 123-4567">
                         </div>
                         <div>
