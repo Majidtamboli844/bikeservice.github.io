@@ -426,7 +426,7 @@
                         </div>
                         <div>
                             <label for="phone" class="block text-sm font-medium text-gray-700 mb-2">Phone Number</label>
-                            <input type="tel" id="phone" name="phone" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="+1 (555) 123-4567">
+                            <input type="tel" id="phone" name="phone" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="+91 84593 62117">
                         </div>
                         <div>
                             <label for="message" class="block text-sm font-medium text-gray-700 mb-2">Message</label>
@@ -447,7 +447,7 @@
                         </p>
                         <p class="flex items-center">
                             <svg class="w-6 h-6 mr-3 text-blue-600" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M14.243 5.757a1 1 0 00-1.414 0L10 8.586 7.172 5.757a1 1 0 00-1.414 1.414L8.586 10l-2.829 2.828a1 1 0 001.414 1.414L10 11.414l2.828 2.829a1 1 0 001.414-1.414L11.414 10l2.829-2.828a1 1 0 000-1.415z" clip-rule="evenodd"></path></svg>
-                            <strong>Email:</strong> <a href="mailto:info@bikeservicepro.com" class="ml-2 text-blue-600 hover:underline">info@bikeservicepro.com</a>
+                            <strong>Email:</strong> <a href="mailto:info@bikeservicepro.com" class="ml-2 text-blue-600 hover:underline">--</a>
                         </p>
                         <p class="flex items-start">
                             <svg class="w-6 h-6 mr-3 text-blue-600 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>
